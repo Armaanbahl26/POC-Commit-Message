@@ -1,0 +1,16 @@
+{
+  "name": "poc-commit-message",
+  "version": "1.0.0",
+  "description": "POC-For-Commit-Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^19.1.0",
+    "@commitlint/config-conventional": "^19.1.0",
+    "husky": "^9.0.11"
+  }
+}
